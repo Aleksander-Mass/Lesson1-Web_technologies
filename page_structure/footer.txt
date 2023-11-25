@@ -1,0 +1,19 @@
+<footer itemscope="itemscope" itemtype="http://schema.org/WPFooter" id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-info container">
+			<div class="copyrights">	
+				&copy;&nbsp;2023&nbsp;Все права защищены			</div>
+			<nav id="navigation" class="footer-navigation">
+				<div class="menu-nizhnee-menyu-container"><ul id="menu-nizhnee-menyu" class="menu"><li id="menu-item-38" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-38"><a>Главная</a></li>
+<li id="menu-item-204" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-204"><a itemprop="url" href="https://pet7.ru/koshki/">Кошки</a></li>
+<li id="menu-item-208" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-208"><a itemprop="url" href="https://pet7.ru/sobaki/">Собаки</a></li>
+<li id="menu-item-203" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-203"><a itemprop="url" href="https://pet7.ru/gryzuny/">Грызуны</a></li>
+<li id="menu-item-206" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-206"><a itemprop="url" href="https://pet7.ru/popugai/">Попугаи</a></li>
+<li id="menu-item-205" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-205"><a itemprop="url" href="https://pet7.ru/loshadi/">Лошади</a></li>
+<li id="menu-item-207" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-207"><a itemprop="url" href="https://pet7.ru/rybki/">Рыбки</a></li>
+<li id="menu-item-3781" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3781"><a itemprop="url" href="https://pet7.ru/contacts/">Контакты</a></li>
+<li id="menu-item-5535" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5535"><a itemprop="url" href="https://pet7.ru/stati/">Статьи</a></li>
+</ul></div>			</nav><!-- #site-navigation -->
+		</div><!-- .site-info -->
+		<div id="top"><i class="icon-angle-up"></i></div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
